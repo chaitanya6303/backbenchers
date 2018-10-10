@@ -1,7 +1,7 @@
 # backbenchers
 repository meant for code.fun.do 2018
 
-//This idea is meant for code.fun.do 2018 on the natural disaster management//
+////////////////////////This idea is meant for code.fun.do 2018 on the natural disaster management////////////////////////////////////////
 -----------------------------------------------------------INTRODUCTION-------------------------------------------------------------------
 Natural disaster has become very common not only in India but in whole world. It may be floods, earthquakes, landslides, tsunamis etc.  whatever may be the reason but it's management has become a field of concern. Every disasters claims a lot of lives particularly in developing countries due to lack of disaster management after these disasters. This project aims at reducing these casualties by smartly managing the rescue operations in affected areas. 
 -------------------------------------------------------------PROBLEM----------------------------------------------------------------------
